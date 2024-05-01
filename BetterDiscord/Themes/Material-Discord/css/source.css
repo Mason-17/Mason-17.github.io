@@ -4,8 +4,8 @@
   --app-font: "Google Sans";
   --app-bg: var(--main-alt);
   --accent-hue: 271;
-  --accent-saturation: 71%;
-  --accent-lightness: 61%;
+  --accent-saturation: 30%;
+  --accent-lightness: 54%;
   --accent-hsl: var(--accent-hue),calc(var(--accent-saturation) * var(--saturation-factor)),var(--accent-lightness);
   --accent-text-color: hsl(0,0%,100%);
   --alert-hue: 0;
